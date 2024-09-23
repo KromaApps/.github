@@ -9,25 +9,25 @@ Welcome to **KromaApps**, a vibrant community for new web and app developers! He
 ## 🛠️ **Our Projects**
 
 Explore our exciting projects that bring innovative ideas to life:
-1. **Vendora**
+1. **Vendora**<br/>
    A multivendor platform designed to connect businesses, allowing seamless sales and collaboration.
 
-2. **KromaFlow**  
+3. **KromaFlow**  
    A dynamic mobile app for wallpaper enthusiasts. Discover, download, share, and favorite the latest trending wallpapers!
 
-3. **Stitch & Style**  
+4. **Stitch & Style**  
    A custom clothing platform for users that also creates employment for tailors and designers. Designers can showcase their talents on our integrated social media platform.
 
-4. **Pet Adopt App**  
+5. **Pet Adopt App**  
    A community for pet lovers! Adopt a pet or find pet food products from trusted sellers.
 
-5. **Zayka Express**  
+6. **Zayka Express**  
    A food delivery app with a twist—seamless user experience, delicious food choices, and speedy delivery.
 
-6. **InvoGen**  
+7. **InvoGen**  
    India's own billing software, equipped with GST features and tailored for businesses of all sizes.
 
-7. **KromaApps Organization Platform**  
+8. **KromaApps Organization Platform**  
    Our future communication and collaboration hub—where tasks are assigned, ideas are born, and innovation thrives.
 
 ## 👥 **Meet the Team**
