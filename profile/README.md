@@ -37,14 +37,12 @@ We are a passionate team of developers, designers, and innovators led by:
 - **Mohammed Afjal Shaikh** - Fullstack Web Developer, React Native Developer, and Founder of KromaApps  
   <br>
 **Our Creative Crew:**
-- **Maria Malik** - Frontend Web Developer  
-- **Khan Tufail Ahmed** - Frontend Web Developer (Fresher)  
-- **Alfiya Inamdar** - Fullstack Web Developer  
+- **Alfiya Inamdar** - Full-Stack Web Developer & Product Manager  
+- **Khan Tufail Ahmed** - Full-Stack Web Developer (Fresher)  
+- **Namrah** - Frontend Developer  
 - **Mohammed Shadab Ali** - Graphic Designer, Logo Designer, Report Creator, and Frontend Developer  
-- **Khan Shoeb** - Frontend Developer (Fresher)  
+- **Khan Shoeb** - Full-Stack Web Developer (Fresher)   
 - **Wahid** - Frontend Web Developer (Fresher)
-- **Alfiya** - Frontend Web Developer (Fresher)  
-- **Asjad Usmani** - Backend Developer (Fresher)
 
 ## 🔧 **Technologies We Love**
 
